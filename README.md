@@ -7,8 +7,11 @@ Link: https://gabica-portolio.web.app/
 
 🛠️ Professional Focus
 Robotics & Bionics: Engineering and prototyping functional Bionic Robotic Arms and autonomous SMARS units.
+
 Automation: Developing the OWL (Optimized Workflow for Learners) Kiosk system to streamline university workflows.
+
 Embedded Systems: Advanced firmware development using Arduino and ESP32 for soccer bots and light-following systems.
+
 Full-Stack Development: Integrating hardware with JavaScript and C++ back-ends for real-time system control.
 
 🚀 Key Projects
