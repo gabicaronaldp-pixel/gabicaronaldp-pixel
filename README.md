@@ -6,6 +6,7 @@ My Portfolio Website:
 Link: https://gabica-portolio.web.app/
 
 🛠️ Professional Focus
+
 -Robotics & Bionics: Engineering and prototyping functional Bionic Robotic Arms and autonomous SMARS units.
 
 -Automation: Developing the OWL (Optimized Workflow for Learners) Kiosk system to streamline university workflows.
@@ -15,6 +16,7 @@ Link: https://gabica-portolio.web.app/
 -Full-Stack Development: Integrating hardware with JavaScript and C++ back-ends for real-time system control.
 
 🚀 Key Projects
+
 -OWL Kiosk System: A Smart Campus initiative for student assistance and workflow optimization.
 
 -Mini Drone Project: A mobile-controlled flight system engineered for stability and performance.
@@ -24,6 +26,7 @@ Link: https://gabica-portolio.web.app/
 -CRUD Blog Platform: A modern content management system integrated with Firebase for real-time data.
 
 💻 Tech Stack
+
 -Languages: C++, JavaScript, Python.
 
 -Hardware: Arduino, ESP32, Motor Drivers, Robotics Sensors.
@@ -33,4 +36,5 @@ Link: https://gabica-portolio.web.app/
 -Philosophy: Prioritizing clean, "non-spaghetti" wiring and functional stability in every build.
 
 🎓 Education & Affiliations
+
 BS in Computer Engineering: Universidad De Dagupan (2024–Present).
