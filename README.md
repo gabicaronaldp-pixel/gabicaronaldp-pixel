@@ -1,4 +1,4 @@
-# Hi there, I'm Ronald P. Gabica! 👋
+# Hi there, I'm Ronald Gabica! 👋
   I am a Computer Engineering Student at Universidad De Dagupan and a Freelance System Developer & Engineer specializing in robotics, bionics, and automation. I thrive at the intersection of hardware and software, building "Smart Campus" solutions and autonomous systems.
 
 My Portfolio Website:
